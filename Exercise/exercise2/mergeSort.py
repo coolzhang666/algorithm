@@ -28,7 +28,7 @@ def merge(left, right):
 
 
 if __name__ == "__main__":
-    len_num = random.randint(2, 50)
+    len_num = random.randint(10, 20)
     test_list = list()
     for i in range(0, len_num):
         test_list.append(random.randint(-1000, 1000))
