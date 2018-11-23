@@ -11,7 +11,7 @@ public class Exercise2 {
     private class VNode {
         char data;
         ENode firstEdge;
-    };
+    }
 
     private int mEdgNum;
     private VNode[] mVexs;
